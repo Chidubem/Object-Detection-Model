@@ -1,0 +1,6 @@
+Pandas
+Pillow
+numpy
+Opencv-python
+Matplotlib
+Seaborn
